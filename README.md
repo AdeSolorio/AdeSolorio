@@ -1,4 +1,14 @@
-## Hi guys!!! Welcome to my Github profile ✨
+
+<h1 align="center">
+  Hi guys!!! Welcome back to my Github profile
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTc5eGVhanViamxoOGZxbHFyN3BpNmQxcWgxaHV6ZTRoZ3p6NW41dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JQ3KNPhuO0GDJEke3J/giphy.gif" width="30px"/>
+</h1>
+
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGIweDJ4MHF3a2E0cWJmYXByNnVyM3dyNDRmbHptc2kyOGtjMTVnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nUqbCSy2cU3rG/giphy.gif" width="400" height="200"/>
+</div>
+
+
 
 <!--
 **AdeSolorio/AdeSolorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
